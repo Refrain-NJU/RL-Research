@@ -59,3 +59,9 @@ class DDPG(object):
         action=self.actor(state)
         print(action.shape)
         return action
+
+    def learn(self):
+        pass
+
+    def train(self):
+        pass
