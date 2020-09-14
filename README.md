@@ -1,2 +1,2 @@
-# Learning_RL
+# RL-Research
 A repo to learn RL
